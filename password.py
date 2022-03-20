@@ -8,7 +8,7 @@ def validate(text1, text2):
     else:
        print("Not Correct")
 validate(password, repeat) 
-https://github.com/geekira/geekira/blob/main/password.py
+
 #2 Create their own PIN codes
 pin = input()
 try:
